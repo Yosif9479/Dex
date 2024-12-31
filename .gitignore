@@ -1,0 +1,9 @@
+﻿.idea
+.utmp
+KeyStore
+Library
+Logs
+obj
+Temp
+UserSettings
+**/*.apk
